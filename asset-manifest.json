@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sobhan_movie_react/static/css/main.334bdeb1.css",
+    "main.js": "/sobhan_movie_react/static/js/main.46733961.js",
+    "index.html": "/sobhan_movie_react/index.html",
+    "static/media/app.svg": "/sobhan_movie_react/static/media/app.2e71bac0facae7095c258481b2f218c8.svg",
+    "main.334bdeb1.css.map": "/sobhan_movie_react/static/css/main.334bdeb1.css.map",
+    "main.46733961.js.map": "/sobhan_movie_react/static/js/main.46733961.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.46733961.js"
+  ]
+}
