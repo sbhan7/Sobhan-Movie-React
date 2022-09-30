@@ -26,6 +26,7 @@ const App = () => {
       headers: {
         // 'Content-Type': 'application/json'
         'Content-Type': 'application/x-www-form-urlencoded',
+      }
       });
     const data = await response.json();
 
