@@ -5,7 +5,7 @@ import MovieCard from './components/MovieCard'
 
 // 91d7a56e  this api key for movie this
 
-const API_URL = 'http://www.omdbapi.com/?apikey=91d7a56e'
+const API_URL = 'https://www.omdbapi.com/?apikey=91d7a56e'
 
 
 
